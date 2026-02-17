@@ -1,4 +1,4 @@
-# Eco-Friendly Transport App
+# NaviGreen - An Eco-Friendly Transport App
 
 ## SDG Chosen
 SDG 13: Climate Action
