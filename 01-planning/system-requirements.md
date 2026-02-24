@@ -1,6 +1,6 @@
-Functional and non-functional requirements 
+##Functional and non-functional requirements 
 
-Functional Requirements 
+#Functional Requirements 
 
 1 – User Login
 
@@ -41,7 +41,7 @@ The system shall display updated environmental news, eco-tips, and climate-relat
 
 
 
-Non-Functional Requirements
+#Non-Functional Requirements
  
 
 1 – Usability
