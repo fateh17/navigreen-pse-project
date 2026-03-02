@@ -4,9 +4,9 @@
 SDG 13: Climate Action
 
 ## Team Members
-- Fateh – Project Manager
-- Abdelrahman – UI/UX Designer 1
-- Bryan – UI/UX Designer 2
+- Fateh Jethva – Project Manager
+-  Abdelrahman Mahmoud Labib Aly Aly – UI/UX Designer 1
+- Bryan Teoh You Wei – UI/UX Designer 2
 - Cho Ko Tayza – Tester
 - Awad Ismail Hussien Mirghani – Documenter
 
