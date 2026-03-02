@@ -15,6 +15,6 @@ Our app allows users to enter a destination and shows the most eco-friendly tran
 
 ## Overview of SDLC Work
 - Planning: Formed the team, assigned roles, wrote Product Vision, created initial backlog in Trello.  
-- Design:  
-- Testing/Evaluation:   
-- Finalization: 
+- Design: Create wireframes, Figma prototype, create use-case diagram.
+- Testing/Evaluation: Conduct usability testing, provide feedback, write test report.  
+- Finalization: Gathers SDLC documentation and prepares final presentation.
