@@ -8,7 +8,7 @@ SDG 13: Climate Action
 - Abdelrahman – UI/UX Designer 1
 - Bryan – UI/UX Designer 2
 - Cho Ko Tayza – Tester
--  – Documenter
+- Awad Ismail Hussien Mirghani – Documenter
 
 ## Project Description
 Our app allows users to enter a destination and shows the most eco-friendly transport option (bus, train, bike, or car). It calculates estimated carbon emissions for each mode of transport and helps any user make environmentally conscious choices by showing emissions saved and what imapct it made reducing the volume of carbon emissions as a result.
