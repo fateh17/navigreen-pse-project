@@ -10,7 +10,8 @@ Duration: 23 Feb – 01 Mar
 - Make clickable prototype
 
 ## What went well
-
+- Respective roles were clear and understood by all members
 ## What didn't go well
-
+- Sprint was not completed on time
 ## Improvements for the next sprint
+- Manage time by checking on progress continuously
